@@ -1,5 +1,4 @@
 ## Predicting Future Sales Using Recurrent Neural Networks
-<br></br>
 ### Objective
 The goal of this project is to develop a Recurrent Neural Network (RNN) model to predict
 future sales based on historical sales data. The model uses a sequence of past sales data to
